@@ -1,26 +1,21 @@
 {
-  "name": "ser-star",
-  "version": "1.0.7",
-  "description": "a minimal swipe carousel",
-  "main": "js/main.js",
+  "name": "serenade-star",
+  "version": "0.0.1",
+  "description": "a component library for serenade.js",
+  "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/isekivacenz/swipr.git"
+    "url": "https://github.com/jameszmartin/serenade-stars.git"
   },
   "dependencies": {
-    "hammerjs": "~2.0.4"
+    "serenadejs": "^1.0.0"
   },
   "keywords": [
-    "swipr",
-    "swiper",
-    "slider",
-    "touch-slider",
-    "touch enabled",
-    "carousel",
-    "minimal",
-    "simple slider",
+    "javascript",
+    "mvc",
+    "components",
     "minimal slider"
   ],
-  "author": "Steven Iseki James Z",
+  "author": "James Z Steven Iseki",
   "license": "MIT"
 }
