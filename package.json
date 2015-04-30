@@ -1,0 +1,26 @@
+{
+  "name": "ser-star",
+  "version": "1.0.7",
+  "description": "a minimal swipe carousel",
+  "main": "js/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isekivacenz/swipr.git"
+  },
+  "dependencies": {
+    "hammerjs": "~2.0.4"
+  },
+  "keywords": [
+    "swipr",
+    "swiper",
+    "slider",
+    "touch-slider",
+    "touch enabled",
+    "carousel",
+    "minimal",
+    "simple slider",
+    "minimal slider"
+  ],
+  "author": "Steven Iseki James Z",
+  "license": "MIT"
+}
