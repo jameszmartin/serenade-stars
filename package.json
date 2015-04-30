@@ -1,6 +1,6 @@
 {
   "name": "serenade-star",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a component library for serenade.js",
   "main": "main.js",
   "repository": {
@@ -14,7 +14,7 @@
     "javascript",
     "mvc",
     "components",
-    "minimal slider"
+    "serenade"
   ],
   "author": "James Z Steven Iseki",
   "license": "MIT"
